@@ -2,6 +2,7 @@
  "name": "bungeecord",
  "icon": "https://proxy.spigotmc.org/0e97ad6ff9f812673c4274b355fb5aa8289bc6e9?url=http%3A%2F%2Fi.imgur.com%2FMAg2r2J.png",
  "type": "PROXY",
+ "language": "JAVA",
  "url": "https://ci.md-5.net/job/BungeeCord/%buildId%/artifact/bootstrap/target/BungeeCord.jar",
  "versions": [
 	{
