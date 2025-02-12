@@ -2,7 +2,7 @@
  "name": "fabric",
  "icon": "https://fabricmc.net/assets/logo.png",
  "type": "SERVER",
- "language": "KOTLIN",
+ "language": "JAVA",
  "url": "https://meta.fabricmc.net/v2/versions/loader/%version/%loaderVersion%/%installerVersion%/server/jar",
  "loaderVersion": "0.16.10",
  "versions": [
