@@ -1,6 +1,6 @@
 # PoloCloud Metadata
 
-This repository contains metadata for various platforms supported by [PoloCloud](https://github.com/PoloCloud).
+This repository contains metadata for various platforms supported by [PoloCloud](https://github.com/thePolocloud/polocloud-v2).
 
 ## Included Platforms
 
@@ -25,7 +25,7 @@ The following platforms are included in this repository:
 - Waterdog
 - Waterfall
 
-## Implementation Status
+## Metadata Implementation Status
 
 | Platform     | Status         |
 |--------------|---------------|
@@ -36,7 +36,7 @@ The following platforms are included in this repository:
 | Gate         | ⏳ Planned     |
 | Hyperion     | ⏳ Planned     |
 | Minestom     | ⏳ Planned     |
-| Nukkit       | ⏳ Planned     |
+| Nukkit       | ✅ Implemented |
 | PandaSpigot  | ✅ Implemented |
 | Paper        | ✅ Implemented |
 | Pumpkin      | ⏳ Planned     |
