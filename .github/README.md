@@ -42,7 +42,7 @@ The following platforms are included in this repository:
 | Pumpkin      | ⏳ Planned     |
 | Purpur       | 🚧 In Progress |
 | Spigot       | 🚧 In Progress |
-| Sponge       | 🚧 In Progress |
+| Sponge       | ✅ Implemented |
 | Valence      | ⏳ Planned     |
 | Velocity     | ✅ Implemented |
 | Waterdog     | ✅ Implemented |
