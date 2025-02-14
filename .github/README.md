@@ -45,7 +45,7 @@ The following platforms are included in this repository:
 | Sponge       | 🚧 In Progress |
 | Valence      | ⏳ Planned     |
 | Velocity     | ✅ Implemented |
-| Waterdog     | ⏳ Planned     |
+| Waterdog     | ✅ Implemented |
 | Waterfall    | ⏳ Planned     |
 
 ## TODOs
