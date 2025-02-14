@@ -46,7 +46,7 @@ The following platforms are included in this repository:
 | Valence      | ⏳ Planned     |
 | Velocity     | ✅ Implemented |
 | Waterdog     | ✅ Implemented |
-| Waterfall    | ⏳ Planned     |
+| Waterfall    | ✅ Implemented |
 
 ## TODOs
 
