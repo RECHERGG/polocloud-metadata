@@ -6,28 +6,28 @@
   "url": "https://api.papermc.io/v2/projects/folia/versions/%version%/builds/%buildId%/downloads/folia-%version%-%buildId%.jar",
   "versions": [
     {
-		  "version": "1.21.4",
+      "version": "1.21.4",
       "buildId": 1
     },
 
     {
-		  "version": "1.20.6",
+      "version": "1.20.6",
       "buildId": 6
     },
     {
-		  "version": "1.20.4",
+      "version": "1.20.4",
       "buildId": 31
     },
     {
-		  "version": "1.20.2",
+      "version": "1.20.2",
       "buildId": 20
     },
     {
       "version": "1.20.1",
       "buildId": 17
     },
-
-	  {
+    
+    {
       "version": "1.19.4",
       "buildId": 39
     }
