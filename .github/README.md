@@ -38,7 +38,7 @@ The following platforms are included in this repository:
 | Minestom     | ⏳ Planned     |
 | Nukkit       | ⏳ Planned     |
 | PandaSpigot  | 🚧 In Progress |
-| Paper        | 🚧 In Progress |
+| Paper        | ✅ Implemented |
 | Pumpkin      | ⏳ Planned     |
 | Purpur       | 🚧 In Progress |
 | Spigot       | 🚧 In Progress |
