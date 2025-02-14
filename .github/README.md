@@ -35,12 +35,12 @@ The following platforms are included in this repository:
 | Folia        | ✅ Implemented |
 | Gate         | ⏳ Planned     |
 | Hyperion     | ⏳ Planned     |
-| Minestom     | ⏳ Planned     |
+| Minestom     | 🚧 In Progress |
 | Nukkit       | ✅ Implemented |
 | PandaSpigot  | ✅ Implemented |
 | Paper        | ✅ Implemented |
 | Pumpkin      | ⏳ Planned     |
-| Purpur       | 🚧 In Progress |
+| Purpur       | ✅ Implemented |
 | Spigot       | ✅ Implemented |
 | Sponge       | ✅ Implemented |
 | Valence      | ⏳ Planned     |
