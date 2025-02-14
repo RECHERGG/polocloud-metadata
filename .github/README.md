@@ -37,7 +37,7 @@ The following platforms are included in this repository:
 | Hyperion     | ⏳ Planned     |
 | Minestom     | ⏳ Planned     |
 | Nukkit       | ⏳ Planned     |
-| PandaSpigot  | 🚧 In Progress |
+| PandaSpigot  | ✅ Implemented |
 | Paper        | ✅ Implemented |
 | Pumpkin      | ⏳ Planned     |
 | Purpur       | 🚧 In Progress |
