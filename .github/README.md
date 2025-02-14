@@ -41,7 +41,7 @@ The following platforms are included in this repository:
 | Paper        | ✅ Implemented |
 | Pumpkin      | ⏳ Planned     |
 | Purpur       | 🚧 In Progress |
-| Spigot       | 🚧 In Progress |
+| Spigot       | ✅ Implemented |
 | Sponge       | ✅ Implemented |
 | Valence      | ⏳ Planned     |
 | Velocity     | ✅ Implemented |
